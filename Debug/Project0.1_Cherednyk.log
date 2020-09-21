@@ -1,0 +1,24 @@
+﻿  Expression.cpp
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Expression.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Expression.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+  Function.cpp
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Function.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Function.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Function.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Function.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Function.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Function.cpp(53,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Function.cpp(61,21): warning C4018: '<': signed/unsigned mismatch
+  Parser.cpp
+  Tokenizer.cpp
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Tokenizer.cpp(46,22): warning C4018: '<': signed/unsigned mismatch
+  Visitor.cpp
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Visitor.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Visitor.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\main.cpp(39,22): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Tokenizer.cpp(20): warning C4172: returning address of local variable or temporary
+C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Tokenizer.cpp(192): warning C4715: 'Token::operator std::basic_string<char,std::char_traits<char>,std::allocator<char> >': not all control paths return a value
+  TokenType.cpp
+  Project0.1_Cherednyk.vcxproj -> C:\Users\Asus\CPProjects\2term\Project0.1_Cherednyk\Debug\Project0.1_Cherednyk.exe
